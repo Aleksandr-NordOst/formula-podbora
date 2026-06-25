@@ -33,7 +33,7 @@ export default function Services() {
   ];
 
   return (
-    <section id="reviews"
+    <section id="services"
       style={{
         background: "#111827",
         color: "white",
